@@ -7,7 +7,7 @@ Dashboard allow stakeholders to better understand:
 ​  Hospitals by region​
 
   Discharge Variability by age and gender 
-​
+​  
   Average Length Of Stay by age and gender 
 ​
   Average Length of Stay by Hospital​
